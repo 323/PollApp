@@ -1,0 +1,1 @@
+This is a Poll App, for Android, which was made for an app creation competition.
